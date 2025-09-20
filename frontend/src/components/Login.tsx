@@ -185,13 +185,13 @@ const Login: React.FC<LoginProps> = ({ onSwitchToSignup }) => {
         </div>
 
         {/* Demo Credentials */}
-        {/* <div className="mt-6 bg-white/10 backdrop-blur-sm rounded-lg p-4">
+        <div className="mt-6 bg-white/10 backdrop-blur-sm rounded-lg p-4">
           <h3 className="text-white font-medium mb-2">Demo Credentials:</h3>
           <p className="text-[#B5F0DF] text-sm">
             Email: adebayo.johnson@email.com<br />
             Password: password123
           </p>
-        </div> */}
+        </div>
       </div>
     </div>
   );

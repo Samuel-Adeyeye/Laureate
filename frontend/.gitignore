@@ -25,3 +25,4 @@ dist-ssr
 .env
 .qodo
 AUTH_README.md
+DEPLOYMENT.md
